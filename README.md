@@ -1,10 +1,6 @@
 <p align="center">
-<img src="https://64.media.tumblr.com/52a0d5a39892f533c3e377b57bf0a4a5/1e3f52aa3fa01c75-ae/s1280x1920/b626ee5cab52f597078dcde3501f698a1b34fc79.pnj">
+<img src="https://64.media.tumblr.com/cfede1fdc92ecdb1537402bd472069fd/0c99b92ead250756-17/s1280x1920/45209725e840c3fd9cb82c8b2d72722886eb2585.webp">
   
-![](https://64.media.tumblr.com/717b6dec4df1de255ae23aa466dab46d/596b1e48282f2ce5-82/s2048x3072/dce09c3a3307e6450eff87ccc589ecd30701e094.pnj)
-
-<p align="center">
-<img src="https://64.media.tumblr.com/70244992d4d00ff36f0c7017f688103c/1e3f52aa3fa01c75-ec/s1280x1920/bfe6266f3baaf34970277a305edc0b340fd03784.pnj">
 
 <!--
 **lumiros/lumiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
